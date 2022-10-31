@@ -49,5 +49,5 @@ Hello, my name is Antonios Papakostoulis and I'm a Btech Graduate from Ionian Un
 - SQL for Data Science | IBM DB0201EN
 
 ## Contact
-- Linkedin: [@Apapakost](https://www.linkedin.com/in/apapakost/)
 - E-mail: antonispap9@gmail.com
+- Linkedin: [@Apapakost](https://www.linkedin.com/in/apapakost/)
