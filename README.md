@@ -37,7 +37,7 @@ Hello, my name is Antonios Papakostoulis and I'm a Btech Graduate from Ionian Un
 
 ### Startup Funding
 **Description:** This is another MS Excel project in which i made a pivot table of various startup companies and the funding that they received. *Data cleaning was done by me.* 
-[Download the datafile here](https://github.com/Antonis-Papakostoulis/Data-analytics-projects/blob/main/Excel/Startup%20Funding.xlsx)
+[Download the data file here](https://github.com/Antonis-Papakostoulis/Data-analytics-projects/blob/main/Excel/Startup%20Funding.xlsx)
 ![Screenshot_9](https://user-images.githubusercontent.com/108819475/199084591-b6eb4335-84cd-47b9-8488-4336851ed8a4.png)
 
 
