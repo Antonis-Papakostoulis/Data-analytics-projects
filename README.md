@@ -5,6 +5,7 @@
 - [Portofolio Projects](#portofolio-projects)
  	+ [Countries Population and GDP Comparison](#countries-population-and-gdp-comparison)
   + [Steph Curry Field Goal Accuracy](#steph-curry-field-goal-accuracy)
+  + [Google Ads Analysis](#google-ads-analysis)
   + [Motor Vehicles Sales Data](#motor-vehicles-sales-data)
   + [Startup Funding](#startup-funding)
 - [Courses](#courses)
@@ -28,6 +29,11 @@ Hello, my name is Antonios Papakostoulis and I'm a Btech Graduate from Ionian Un
 [Download the data file here](https://github.com/Antonis-Papakostoulis/Data-analytics-projects/blob/main/Power%20BI/Steph%20Curry%20Shots.pbix)
 ![Screenshot_6](https://user-images.githubusercontent.com/108819475/199075601-1d52b1b0-24f2-43fd-9d4c-baafdfa431ca.png)
 [Screenshot 2](https://github.com/Antonis-Papakostoulis/Data-analytics-projects/blob/main/Power%20BI/Screenshots/Screenshot_5.png)
+
+### Google Ads Analysis
+**Descreption:** This is a dataset that contains 4 Google Ads campaigns with various Adgroups over a period of two months. I was asked to do a data analysis on this dataset and find possible problematic areas and offer some solutions. This is a dashboard i made on Power BI for this particular dataset. 
+![Screenshot_2](https://user-images.githubusercontent.com/108819475/200173138-173268e4-9d85-4601-9773-38c3fb54eca0.png)
+You can find the full analysis i did on this [PDF](https://github.com/Antonis-Papakostoulis/Data-analytics-projects/files/9945936/Google.Ads.Analysis.-.Antonios.Papakostoulis.pdf)
 
 ### Motor Vehicles Sales Data
 **Description:** This is a pivot table in MS Excel showing sale data from motorized vehicles, it was carried out during a MS Excel course. *Data cleaning was done by me.*
