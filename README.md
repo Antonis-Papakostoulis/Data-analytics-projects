@@ -12,8 +12,7 @@
 
 ## About
 
-Hello, my name is Antonios Papakostoulis and I'm a Btech Graduate from Ionian University with experience in data management and analysis. Even though my studies are not solely based on data analytics, a big portion of my studies focused on how data can be used to help a company solve its problems and prosper. After I graduated i focused on making my skills as an analyst better and also tried to acquire knowledge thats necessary for any future data analyst. With great knowledge of MS Excel and MS Power BI and a good foundation in SQL and Python I'm positive i can make a positive impact on your company. 
-
+Hello, my name is Antonios Papakostoulis and I'm an aspiring Data analyst that recently completed Google Data Analytics Professional Certificate and a Btech Graduate from Ionian University with experience in data management and analysis. Even though my studies are not solely based on data analytics, a big portion of my studies focused on how data can be used to help a company solve its problems and help them prosper. After I graduated i focused on making my skills as an analyst better and also tried to acquire knowledge thats necessary for any aspiring data analyst. With proficiency of MS Excel/Google Sheets and MS Power BI/Tableua and a excellent understanding in SQL, R and Python.
 ## Portofolio Projects
 
 ### Google Ads Analysis
@@ -42,6 +41,7 @@ You can find my full analysis on this [PDF](https://github.com/Antonis-Papakosto
 
 
 ## Courses
+- Google Data Analytics Professional Certificate
 - Analyzing Data with Excel | IBM DA0130
 - Analyzing and Visualizing Data with Power BI | DavidsonX.D005
 - Analyzing Data with Python | IBM DA0101EN
