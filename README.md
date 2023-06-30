@@ -49,5 +49,5 @@ You can find my full analysis on this [PDF](https://github.com/Antonis-Papakosto
 - SQL for Data Science | IBM DB0201EN
 
 ## Contact
-- E-mail: antonispap9@gmail.com
+- E-mail: papakostoulisantonios@gmail.com
 - Linkedin: [@Apapakost](https://www.linkedin.com/in/apapakost/)
