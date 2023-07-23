@@ -18,11 +18,12 @@ Hello, my name is Antonios Papakostoulis and I'm an entry-data analyst professio
 
 ### Google Certificate Capstone Project
 **Description:** A Chicago based bike rental company asked its analytics team to analyze data from the past 12 months and find differences between its two types of customers, Members and casual riders. I was given data from the past 12 months  and was asked to analyze and make recomendations in order to design marketing strategies aimed at converting casual riders into annual members. 
-You can find my full analysis on this [PDF](
+
+You can download my full analysis on this [PDF](
 ### Google Ads Analysis
 **Description:** This is a dataset that contains 4 Google Ads campaigns with various Adgroups over a period of two months. I was asked to do a data analysis on this dataset and find possible problematic areas and offer some solutions. This is a dashboard i made on Power BI for this particular dataset. 
 ![Screenshot_2](https://user-images.githubusercontent.com/108819475/200173138-173268e4-9d85-4601-9773-38c3fb54eca0.png)
-You can find my full analysis on this [PDF](https://docs.google.com/viewer?url=https://github.com/Antonis-Papakostoulis/Data-analytics-projects/files/9945936/Google.Ads.Analysis.-.Antonios.Papakostoulis.pdf)
+You can find my full analysis on this [PDF](https://github.com/Antonis-Papakostoulis/Data-analytics-projects/files/9945936/Google.Ads.Analysis.-.Antonios.Papakostoulis.pdf)
 
 ### Countries Population and GDP Comparison
 **Description:** This is a project was completed during a Power BI course and it shows comparisons among countries' population and GDP from the year 1960 until the year 2016. *Data cleaning was done on Microsoft Excel.*
