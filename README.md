@@ -3,6 +3,7 @@
 ## Table of Contents
 - [About](#about)
 - [Portofolio Projects](#portofolio-projects)
+  + [Google Certificate Capstone Project](#google-certificate-capstone-project)
  	+ [Google Ads Analysis](#google-ads-analysis)
   + [Countries Population and GDP Comparison](#countries-population-and-gdp-comparison)
   + [Steph Curry Field Goal Accuracy](#steph-curry-field-goal-accuracy)
@@ -12,9 +13,11 @@
 
 ## About
 
-Hello, my name is Antonios Papakostoulis and I'm an aspiring Data analyst that recently completed Google Data Analytics Professional Certificate and a Btech Graduate from Ionian University with experience in data management and analysis. Even though my studies are not solely based on data analytics, a big portion of my studies focused on how data can be used to help a company solve its problems and help them prosper. After I graduated i focused on making my skills as an analyst better and also tried to acquire knowledge thats necessary for any aspiring data analyst. With proficiency of MS Excel/Google Sheets and MS Power BI/Tableau and a excellent understanding in SQL, R and Python.
+Hello, my name is Antonios Papakostoulis and I'm an entry-data analyst professional, that recently completed Google Data Analytics Professional Certificate and a Bachelor degree in Information Technology from Ionian University. A big portion of my studies focused on how data can be used to help a company solve its problems and help them make decision for the future. After I graduated i focused on making my skills as an analyst better and also tried to acquire knowledge thats necessary for any aspiring data analyst, which is something I achieved after completing a five-month long job ready Google Career Certificate training. With proficiency of MS Excel/Google Sheets and MS Power BI/Tableau and a excellent understanding in SQL and R.
 ## Portofolio Projects
 
+### Google Certificate Capstone Project
+**Description:** A Chicago based bike rental company asked its analytics team to analyze data from the past 12 months and find differences between its two types of customers, Members and casual riders. I was given data from the past 12 months  and was asked to analyze and make recomendations in order to design marketing strategies aimed at converting casual riders into annual members. 
 ### Google Ads Analysis
 **Description:** This is a dataset that contains 4 Google Ads campaigns with various Adgroups over a period of two months. I was asked to do a data analysis on this dataset and find possible problematic areas and offer some solutions. This is a dashboard i made on Power BI for this particular dataset. 
 ![Screenshot_2](https://user-images.githubusercontent.com/108819475/200173138-173268e4-9d85-4601-9773-38c3fb54eca0.png)
