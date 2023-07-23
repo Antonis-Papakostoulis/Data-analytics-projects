@@ -4,7 +4,7 @@
 - [About](#about)
 - [Portofolio Projects](#portofolio-projects)
   + [Google Certificate Capstone Project](#google-certificate-capstone-project)
-	+ [Google Ads Analysis](#google-ads-analysis)
++ [Google Ads Analysis](#google-ads-analysis)
   + [Countries Population and GDP Comparison](#countries-population-and-gdp-comparison)
   + [Steph Curry Field Goal Accuracy](#steph-curry-field-goal-accuracy)
   + [Motor Vehicles Sales Data](#motor-vehicles-sales-data)
