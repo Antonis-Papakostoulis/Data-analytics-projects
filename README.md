@@ -18,7 +18,7 @@ Hello, my name is Antonios Papakostoulis and I'm an entry-data analyst professio
 
 ### Google Certificate Capstone Project
 **Description:** A Chicago based bike rental company asked its analytics team to analyze data from the past 12 months and find differences between its two types of customers, Members and casual riders. I was given data from the past 12 months  and was asked to analyze and make recomendations in order to design marketing strategies aimed at converting casual riders into annual members. 
-![](https://github.com/Antonis-Papakostoulis/Data-analytics-projects/blob/main/Screenshot_12.png)
+![](https://github.com/Antonis-Papakostoulis/Data-analytics-projects/blob/main/Power%20BI/Screenshots/Screenshot_12.png)
 You can see my full analysis on this [PDF](https://github.com/Antonis-Papakostoulis/Data-analytics-projects/blob/main/Cyclistic%20Case%20Study%20Google%20Capstone-Antonios%20Papakostoulis.pdf)
 
 You can find my presentation on this [Slideshow](https://docs.google.com/presentation/d/1zONP6abP2eG1tnKDtQHlCpw8b_GEfUHBoUB6pf7psGU/edit?usp=sharing)
