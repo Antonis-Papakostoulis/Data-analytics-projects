@@ -25,6 +25,8 @@ You can find my presentation on this [Slideshow](https://docs.google.com/present
 ### Google Ads Analysis
 **Description:** This is a dataset that contains 4 Google Ads campaigns with various Adgroups over a period of two months. I was asked to do a data analysis on this dataset and find possible problematic areas and offer some solutions. This is a dashboard i made on Power BI for this particular dataset. 
 ![Screenshot_2](https://user-images.githubusercontent.com/108819475/200173138-173268e4-9d85-4601-9773-38c3fb54eca0.png)
+
+You can find my presentation on this [Slideshow](https://docs.google.com/presentation/d/1YlIxGe2c9fTmFTYYAaJv-6J_ijWTtVXK2aWxfG4PtaY/edit?usp=sharing)
 ### Countries Population and GDP Comparison
 **Description:** This is a project was completed during a Power BI course and it shows comparisons among countries' population and GDP from the year 1960 until the year 2016. *Data cleaning was done on Microsoft Excel.*
 [Download the data file here](https://github.com/Antonis-Papakostoulis/Data-analytics-projects/blob/main/Power%20BI/Countries%20Comparison.pbix)
